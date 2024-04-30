@@ -6,7 +6,7 @@ This repository contains the datasets used in the research for the thesis titled
 
 Repository Structure:
 
-/input_data: Contains the original datasets used as input for models and analysis.
+/datasets: Contains the original datasets used as input for models and analysis.
 
 /scripts: Contains the scripts and codes used for data analysis and result generation.
 
