@@ -6,13 +6,13 @@ This repository contains the datasets used in the research for the thesis titled
 
 ## **Repository Structure**:
 
-** - datasets:** Contains the original datasets used as input for models and analysis.
+**- datasets:** Contains the original datasets used as input for models and analysis.
 
-** - scripts:** Contains the scripts and codes used for data analysis and result generation.
+**- scripts:** Contains the scripts and codes used for data analysis and result generation.
 
-** - results:** Contains the results of the analyses performed on the datasets.
+**- results:** Contains the results of the analyses performed on the datasets.
 
-** - documentation:** Contains any relevant documentation related to the datasets and analyses conducted.
+**- documentation:** Contains any relevant documentation related to the datasets and analyses conducted.
 
 ## **Available Datasets**:
 
