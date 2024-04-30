@@ -6,19 +6,19 @@ This repository contains the datasets used in the research for the thesis titled
 
 ## **Repository Structure**:
 
-/datasets: Contains the original datasets used as input for models and analysis.
+**-datasets:** Contains the original datasets used as input for models and analysis.
 
-/scripts: Contains the scripts and codes used for data analysis and result generation.
+**-scripts:** Contains the scripts and codes used for data analysis and result generation.
 
-/results: Contains the results of the analyses performed on the datasets.
+**-results:** Contains the results of the analyses performed on the datasets.
 
-/documentation: Contains any relevant documentation related to the datasets and analyses conducted.
+**-documentation:** Contains any relevant documentation related to the datasets and analyses conducted.
 
 ## **Available Datasets**:
 
-World_electricity.csv: Contains historical data on global electricity production, broken down by energy type. This data is crucial for understanding energy demand and its impact on the supply chain. It is also used to compare forecasted world electricity production by 2050 with actual data and analyze the percentage contribution of each continent to global electricity production.
+**World_electricity.csv:** Contains historical data on global electricity production, broken down by energy type. This data is crucial for understanding energy demand and its impact on the supply chain. It is also used to compare forecasted world electricity production by 2050 with actual data and analyze the percentage contribution of each continent to global electricity production.
 
-Owid.csv: This dataset is a collection of key metrics maintained by [OWID](https://ourworldindata.org/energy), it is necessary to mention that the data used from this dataset for the development of the thesis comes from [IAEA](https://pris.iaea.org/pris/). Specific data such as nuclear power generation and nuclear electricity were extracted, retaining all countries and dates in the dataset for further analysis. This dataset is used to project the increase in global electricity production, as well as to project the tripled global nuclear power production by 2050 and assess the percentage contributions to total electricity generation by continent.
+**Owid.csv:** This dataset is a collection of key metrics maintained by [OWID](https://ourworldindata.org/energy), it is necessary to mention that the data used from this dataset for the development of the thesis comes from [IAEA](https://pris.iaea.org/pris/). Specific data such as nuclear power generation and nuclear electricity were extracted, retaining all countries and dates in the dataset for further analysis. This dataset is used to project the increase in global electricity production, as well as to project the tripled global nuclear power production by 2050 and assess the percentage contributions to total electricity generation by continent.
 
 ## **Available Scripts**:
 
